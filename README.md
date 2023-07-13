@@ -16,3 +16,15 @@
     git add .
     // the '.' refers to the current directory
 ```
+-Step4 **Commit Changes**
+
+```
+   git commit -m "Version 0"
+
+```
+-Step5 **Create a Remote Repo**
+```
+   This is done on github
+
+```
+-Step6 **Connect my Local Repo to the Remote Repo**
